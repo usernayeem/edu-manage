@@ -86,8 +86,9 @@ The client interacts with a separate backend API for data persistence, authentic
    ```bash
    npm install
    ```
+4. Create and configure environment variables (see Configuration).
 
-4. **Run locally:**
+5. **Run locally:**
    ```bash
    npm run dev
    ```
